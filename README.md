@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ivanalonsom
 - 👀 I’m interested in developing myself into this world a little bit more everyday
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning DATA ANALYSIS in IRONHACK
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ivan7yt@gmail.com
 - 😄 Pronouns: He/Him
