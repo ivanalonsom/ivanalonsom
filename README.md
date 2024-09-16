@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Iván Alonso</h1>
+<h1 align="center">Hi 🤗, I'm Iván Alonso</h1>
 <h3 align="center">A Data Analyst and developer from Castilla y Leon, Spain</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ivanalonsom" alt="ivanalonsom" /></a> </p>
