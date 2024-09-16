@@ -13,7 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/ivan-alonsom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ivan-alonsom" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ivan-alonsom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ivan-alonsom" height="30" width="40" /></a>
+<a href="mailto:ivan7yt@gmail.com"><img align="center" src=https://camo.githubusercontent.com/e5cfad4cbb1e023463333923b069b81749d94e8ff5722f851c7bb01d65bb0e95/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465 alt="www.linkedin.com/in/ivan-alonsom" height="30" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
